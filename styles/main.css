@@ -13,3 +13,14 @@ nav a{
     border-right: 2px solid white;
     text-transform: uppercase;
 }
+img{
+    width: 45vh;
+    height: 35vh;
+    display: inline;
+    margin: 2px;
+    padding: 2px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
